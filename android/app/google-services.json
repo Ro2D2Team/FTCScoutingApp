@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1096551649458",
+    "firebase_url": "https://ftc-tracker-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ftc-tracker",
+    "storage_bucket": "ftc-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096551649458:android:9154726894366e802df9ab",
+        "android_client_info": {
+          "package_name": "com.example.ftc_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096551649458-o7f83p5g49h55sldjgom398uk6pnoub5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDa3G1qUgOEeVZ7nvDxvFnLmCc9F2PwA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096551649458-o7f83p5g49h55sldjgom398uk6pnoub5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096551649458-1pbo26jlp0rk8gso9dtkfvetaa1sj2a9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ftcTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
